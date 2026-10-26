@@ -1,12 +1,12 @@
-# Lacy (beta)
+# Lacy
 
 Your Mac's notch, alive. Lacy turns the notch into a live, glanceable island for music, calendar, files, timers, and more, with smooth native animations and almost no battery cost.
 
-**Status:** free public beta, coming soon. Downloads will appear under [Releases](../../releases).
+**Free.** ⬇️ **[Download the latest Lacy (.dmg)](../../releases/latest)**
 
 ## Install
 1. Download the latest `Lacy-….dmg` from Releases and drag **Lacy** into **Applications**.
-2. Open Lacy. While the beta isn't notarized yet, macOS will say **"Lacy" Not Opened**. Click **Done** (not Move to Trash).
+2. Open Lacy. Lacy isn't notarized by Apple yet, so macOS will say **"Lacy" Not Opened**. Click **Done** (not Move to Trash).
 3. Go to **System Settings → Privacy & Security**, scroll down, click **Open Anyway** next to Lacy, enter your password, and confirm.
 
 You only do this once. After that Lacy keeps itself up to date (menu → **Check for Updates…**).
@@ -22,4 +22,4 @@ You only do this once. After that Lacy keeps itself up to date (menu → **Check
 - Calendar links, clipboard history and settings stay on your Mac.
 
 ---
-This repository only hosts Lacy's beta builds and its update feed (`appcast.xml`).
+This repository hosts Lacy's downloads and its update feed (`appcast.xml`).
