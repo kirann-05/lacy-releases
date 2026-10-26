@@ -4,6 +4,8 @@ Your Mac's notch, alive. Lacy turns the notch into a live, glanceable island for
 
 **Free.** ⬇️ **[Download the latest Lacy (.dmg)](../../releases/latest)**
 
+Website: **[kirann-05.github.io/getlacy](https://kirann-05.github.io/getlacy/)**
+
 ## Install
 1. Download the latest `Lacy-….dmg` from Releases and drag **Lacy** into **Applications**.
 2. Open Lacy. Lacy isn't notarized by Apple yet, so macOS will say **"Lacy" Not Opened**. Click **Done** (not Move to Trash).
