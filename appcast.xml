@@ -5,5 +5,14 @@
     <link>https://github.com/kirann-05/lacy-releases</link>
     <description>Lacy beta updates</description>
     <language>en</language>
+    <item>
+      <title>Lacy 0.9.0 (build 2)</title>
+      <pubDate>Mon, 26 Oct 2026 20:34:48 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First public beta build with automatic updates.</p><ul><li>Calendar: tap any day to see its events, flip months, jump back to today</li><li>Player: artwork sits beside the title; click the title to jump to the app or browser tab that&#x27;s playing</li><li>Full screen: point at the notch to open it</li><li>Clipboard history is kept across restarts and scrolls with the trackpad</li><li>Mirror uses the built-in camera reliably</li><li>Ask: Gemini replaces Google AI</li><li>Runs on Intel Macs too</li></ul>]]></description>
+      <enclosure url="https://github.com/kirann-05/lacy-releases/releases/download/v0.9.0-2/Lacy-0.9.0-2.dmg" sparkle:edSignature="f6FHF0qzBDGgXAIRoHaBaeBHXdHIeNPYHz3IwSh72xSZ5z5dJX1Os0e2zi+wdw0LtG7T77m+ZCo6mPZbEKkGBw==" length="4912190" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
