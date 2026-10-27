@@ -6,6 +6,15 @@
     <description>Lacy beta updates</description>
     <language>en</language>
     <item>
+      <title>Lacy 1.0 (build 3)</title>
+      <pubDate>Tue, 27 Oct 2026 13:15:21 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Your Mac&#x27;s notch, alive. The first full release.</p><ul><li>Now Playing for any app, browsers included: artwork, progress, controls, and a click on the title jumps to the tab or app that&#x27;s playing</li><li>Lock screen: a see-through glass Now Playing card while your Mac is locked, and an unlock confirmation in the notch</li><li>Calendar: today&#x27;s events at a glance; tap any day or flip months</li><li>Shelf for files, Ask (Claude, ChatGPT, Perplexity, Gemini), Snake, and Tools: timer, Keep Awake, clipboard history, color picker, mirror, note</li><li>Battery, Bluetooth, Focus, volume and brightness, shown in the notch</li><li>Stays out of the way: hidden in full screen until you point at it</li><li>Automatic updates</li></ul>]]></description>
+      <enclosure url="https://github.com/kirann-05/lacy-releases/releases/download/v1.0-3/Lacy-1.0-3.dmg" sparkle:edSignature="lABzZOwngqCQj40CIVWGSNj8CpNDJB6fKYKy+M6/MJ2yiZdKYgB1HEikcUEAmiB88h7Us0e4Gurm8eb77rLdAQ==" length="4174989" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lacy 0.9.0 (build 2)</title>
       <pubDate>Mon, 26 Oct 2026 20:34:48 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
