@@ -6,6 +6,15 @@
     <description>Lacy beta updates</description>
     <language>en</language>
     <item>
+      <title>Lacy 1.1.1 (build 5)</title>
+      <pubDate>Mon, 16 Nov 2026 07:13:53 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Small fixes, and the way to Lacy 2.</p><ul><li>The right player stays up when a paused app grabs Now Playing, and the position is correct when you resume</li><li>The shelf only opens when a file reaches the notch, and you can turn that off in Settings</li><li>VoiceOver names every button, Reduce Motion stills the lock screen colours, and Reduce Transparency gets solid glass</li><li>On a MacBook with a notch, Lacy 2 will be offered as the next update</li></ul>]]></description>
+      <enclosure url="https://github.com/kirann-05/lacy-releases/releases/download/v1.1.1-5/Lacy-1.1.1-5.dmg" sparkle:edSignature="ie82Ej2jMGt2iRu5cCXNjvCta5U09/GK3qn4op5JfI0HlO+LxNG5FW18tnrQrFr9epSYIDxLsaa6R+hEqeGZDw==" length="4475788" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lacy 1.1 (build 4)</title>
       <pubDate>Wed, 28 Oct 2026 21:08:45 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
