@@ -6,6 +6,16 @@
     <description>Lacy beta updates</description>
     <language>en</language>
     <item>
+      <title>Lacy 2.0.1 (build 7)</title>
+      <pubDate>Mon, 16 Nov 2026 20:23:49 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>notch</sparkle:channel>
+      <description><![CDATA[<p>Lighter glass.</p><ul><li>The open pill is back to clear, bright Liquid Glass: no dark layer behind it and no shadow around the text</li></ul>]]></description>
+      <enclosure url="https://github.com/kirann-05/lacy-releases/releases/download/v2.0.1-7/Lacy-2.0.1-7.dmg" sparkle:edSignature="cYQVnn27RsSXC5UULAPWRHgkujgUZylDtM2q0eF+la1YqE7Dzyqk26TQhC1rg30sDuwazikhrNtY2c0fd+upDA==" length="5178745" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lacy 2.0 (build 6)</title>
       <pubDate>Mon, 16 Nov 2026 07:15:03 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
