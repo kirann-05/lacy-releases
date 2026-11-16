@@ -6,6 +6,16 @@
     <description>Lacy beta updates</description>
     <language>en</language>
     <item>
+      <title>Lacy 2.0 (build 6)</title>
+      <pubDate>Mon, 16 Nov 2026 07:15:03 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>notch</sparkle:channel>
+      <description><![CDATA[<p>The notch becomes a pill.</p><p>After this update macOS asks for Lacy&#x27;s permissions one more time (Calendar, Camera and the like). From now on it remembers them across updates.</p><ul><li>A new pill grows out of the notch: black while it&#x27;s small, Liquid Glass when it opens</li><li>Two things at once: when a timer and music are both on, one holds the pill and the other waits in a small bubble beside it</li><li>Pomodoro: 25 minutes of focus, then a 5-minute break, with a longer break every fourth round</li><li>Floating timer: drag the timer anywhere, or dock it to the edge of the screen</li><li>Pill Studio: choose what the open pill is made of, its tint and size, and what sits beside the notch</li><li>Presets: Minimal, Music, Deep Work or Maximal in one click, or save your own look and share it as a file</li><li>Extensions: turn each part of Lacy on or off in one place, from Now Playing to Snake</li><li>Important alerts are never cut off: a low battery or a meeting reminder stays up, and smaller notes wait their turn</li><li>A new player: controls that light up under the pointer, the playing app&#x27;s icon on the cover, and a favourite star for Apple Music</li><li>Snake gets nine levels, five mazes and a bonus ladybird</li><li>A big mirror in the middle of the screen, from Tools</li><li>Ask shows your assistant&#x27;s own logo, and Calendar lists every event of the day</li><li>Clearer text on the glass, even over bright pages</li><li>Fixes: the right player stays up when a paused app grabs Now Playing, the shelf only opens when a file reaches the notch, and VoiceOver names every button</li></ul>]]></description>
+      <enclosure url="https://github.com/kirann-05/lacy-releases/releases/download/v2.0-6/Lacy-2.0-6.dmg" sparkle:edSignature="4x8SqVDvetRTi49WNmyjFc7wyp8gX1llwnUTALoDZ/NvpCajUm5omMLAVWEJ7mDysVjAIHEqaoyxPtp6Pf4eCA==" length="5179484" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lacy 1.1.1 (build 5)</title>
       <pubDate>Mon, 16 Nov 2026 07:13:53 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
