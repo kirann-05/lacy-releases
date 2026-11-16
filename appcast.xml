@@ -6,6 +6,16 @@
     <description>Lacy beta updates</description>
     <language>en</language>
     <item>
+      <title>Lacy 2.0.2 (build 8)</title>
+      <pubDate>Mon, 16 Nov 2026 20:28:50 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>notch</sparkle:channel>
+      <description><![CDATA[<p>What&#x27;s playing is back on your lock screen.</p><ul><li>The lock screen player is switched back on for everyone, so the full-screen player and synced lyrics show again when your Mac is locked. If you&#x27;d rather not have it, turn it off in Settings and it stays off</li><li>Lighter glass from 2.0.1 included</li></ul>]]></description>
+      <enclosure url="https://github.com/kirann-05/lacy-releases/releases/download/v2.0.2-8/Lacy-2.0.2-8.dmg" sparkle:edSignature="E3dSQpt9ojrZM6P7c/dnPrx5bKEzDHazw880d67FYTSWhXrNPG+5HiRH6Ps8b7xJlP6htM/iAU44Td7uzkrUCA==" length="5178988" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lacy 2.0.1 (build 7)</title>
       <pubDate>Mon, 16 Nov 2026 20:23:49 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
