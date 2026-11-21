@@ -6,6 +6,15 @@
     <description>Lacy beta updates</description>
     <language>en</language>
     <item>
+      <title>Lacy 1.1.3 (build 7.1)</title>
+      <pubDate>Sat, 21 Nov 2026 14:26:14 GMT</pubDate>
+      <sparkle:version>7.1</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A flat bar for Macs without a notch, and the fixes from Lacy 2.</p><ul><li>On Macs without a notch, Lacy now rests as a small flat bar just below the top of the screen, like the bar on an iPhone. Point at the bar to open it; moving across the menu bar near it no longer opens Lacy by accident</li><li>Paste, copy, cut, select all and undo work in the note and the Ask field</li><li>The colour picker works again and shows the colour you picked, even over a full-screen app</li><li>Lacy keeps its permissions (Calendar, Camera, Accessibility) across updates. This update asks once more; later ones won&#x27;t</li><li>What&#x27;s playing shows correctly when a paused app takes over the system&#x27;s Now Playing, and a browser in front no longer hides the player</li><li>Scrolling inside the open notch scrolls its content instead of closing it</li><li>Security: calendar links are https only, and your clipboard history and private calendar links are kept in files only you can read</li></ul>]]></description>
+      <enclosure url="https://github.com/kirann-05/lacy-releases/releases/download/v1.1.3-7.1/Lacy-1.1.3-7.1.dmg" sparkle:edSignature="1vbtV1g7j+2ZjS9uwGZDbyo9kVhUpczy9++cWMmmjmCNoYB7/0E2Lp+m15gwXVGK2+bDXq8e/zJU/hkXqEVICQ==" length="4556346" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lacy 1.1.2 (build 7)</title>
       <pubDate>Mon, 16 Nov 2026 20:32:39 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
