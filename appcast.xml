@@ -6,6 +6,15 @@
     <description>Lacy beta updates</description>
     <language>en</language>
     <item>
+      <title>Lacy 1.1.4 (build 7.2)</title>
+      <pubDate>Sat, 21 Nov 2026 14:45:59 GMT</pubDate>
+      <sparkle:version>7.2</sparkle:version>
+      <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The music pill steps aside on Macs without a notch.</p><ul><li>While music plays, Lacy stays a small flat bar instead of covering the middle of the menu bar. When the song changes, the pill shows the title for a moment, then it&#x27;s the bar again. Point at the bar to open the player</li></ul>]]></description>
+      <enclosure url="https://github.com/kirann-05/lacy-releases/releases/download/v1.1.4-7.2/Lacy-1.1.4-7.2.dmg" sparkle:edSignature="/Zj/TRse2jobbSwUbkpTCZXpzzZUAEIYAITB0MJ5TTAdJRYof7YBPZjs6m0OhyUoCrbkxTOPtGvQYuIKdFCRDg==" length="4560107" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lacy 1.1.3 (build 7.1)</title>
       <pubDate>Sat, 21 Nov 2026 14:26:14 GMT</pubDate>
       <sparkle:version>7.1</sparkle:version>
